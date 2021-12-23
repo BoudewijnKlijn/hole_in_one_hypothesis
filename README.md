@@ -1,4 +1,4 @@
-"Als iemand tenminste één hole in one heeft gemaakt, dan is de kans groter dat hij er meer dan één heeft, dan exact één." Waar of niet waar?
+## "Als iemand tenminste één hole in one heeft gemaakt, dan is de kans groter dat hij er meer dan één heeft, dan exact één." Waar of niet waar?
 
 Op 6 augustus jongstleden sloeg 'The Green Machine' een hole in one (ace) en onder het genot van een glas champagne poneerde zijn flightgenoot bovenstaande interessante stelling die ik ben gaan toetsen.
 
